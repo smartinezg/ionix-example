@@ -53,9 +53,11 @@ Ejemplo: [param=1-9]
 
 ------------------------------------------------------------
 
+## Ejercicio 2
 
+![Captura](ejercicio2.png "Ejercicio 2") 
 
-
+Respecto a la seguridad de información, si bien se destaca el no uso de Certificados SSL, creo que el uso del protocolo TLS es adecuado para la encriptación de datos sensibles, utilizando Certificado TLS. 
 
 ###### Autor: Sergio Martínez&copy; 
 	
