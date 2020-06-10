@@ -1,13 +1,12 @@
-package com.ionix.example.ionix.example;
+package com.ionix.example;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class IonixExampleApplication {
-
+public class ExampleApplication {
+	
 	public static void main(String[] args) {
-		SpringApplication.run(IonixExampleApplication.class, args);
+		SpringApplication.run(ExampleApplication.class, args);
 	}
-
 }

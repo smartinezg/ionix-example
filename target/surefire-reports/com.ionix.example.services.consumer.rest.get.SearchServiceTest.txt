@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.ionix.example.services.consumer.rest.get.SearchServiceTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 0.112 s - in com.ionix.example.services.consumer.rest.get.SearchServiceTest
