@@ -52,7 +52,15 @@ public class SearchService {
 				Registers registers = new Registers();
 				registers.setRegisterCount(searchRS.getResult().getItems().size());
 				exampleRS.setResult(registers);
+			} else {
+				Registers registers = new Registers();
+				registers.setRegisterCount(0);
+				exampleRS.setResult(registers);
 			}
+		} else {
+			Registers registers = new Registers();
+			registers.setRegisterCount(0);
+			exampleRS.setResult(registers);
 		}
 		logger.info("ExampleRS : " + exampleRS);
 		return exampleRS;
