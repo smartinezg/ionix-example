@@ -47,9 +47,18 @@ Por configuración, la aplicación se deploya en el puerto 8080.
 **Tipo:** POST
 
 **Parametro:** [**param=**rut]  
-Ejemplo: [param=1-9]
+**Ejemplo:** [param=1-9]
 
 
+
+## Test Unitarios
+Se encuentran disponible 3 test unitarios utilizando JUNIT:
+
+*   SearchRutControllerTest.java
+*   UserControllerTest.java
+*	SearchServiceTest.java
+  
+  
 
 ------------------------------------------------------------
 
